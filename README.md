@@ -4,7 +4,7 @@ Hi! I'm Theinarasu a student in the Framework-Based Software Design and Developm
 I expect to gain a solid understanding of modern software maintenance practices, including strategies for ensuring system stability, scalability, and performance. Additionally, I aim to learn how to effectively manage and update legacy systems, ensuring they integrate well with new technologies and meet evolving business needs..
 
 ![My Image](myimage.jpg =100x100)  <!-- Link to the uploaded image -->
-
+<img src="myimage.jpg" alt="Alt Text" width="300" height="200">
 ## GitHub Profile
 
 You can view my personalized GitHub profile https://github.com/Theinarasu-s2034407
