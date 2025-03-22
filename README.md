@@ -3,7 +3,7 @@
 Hi! I'm Theinarasu a student in the Framework-Based Software Design and Development course. 
 I expect to gain a solid understanding of modern software maintenance practices, including strategies for ensuring system stability, scalability, and performance. Additionally, I aim to learn how to effectively manage and update legacy systems, ensuring they integrate well with new technologies and meet evolving business needs..
 
-![My Image](myimage.jpg =130x130)  <!-- Link to the uploaded image -->
+![My Image](myimage.jpg =100x100)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
